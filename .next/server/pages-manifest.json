@@ -1,9 +1,9 @@
 {
   "/_app": "pages/_app.js",
-  "/news/[newsId]": "pages/news/[newsId].html",
   "/_error": "pages/_error.js",
   "/": "pages/index.html",
-  "/_document": "pages/_document.js",
+  "/news/[newsId]": "pages/news/[newsId].html",
   "/news": "pages/news.html",
+  "/_document": "pages/_document.js",
   "/404": "pages/404.html"
 }
